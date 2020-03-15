@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Trie {
-    public final static int ALPHABET_SIZE = 26;
+    public final static int ALPHABET_SIZE = 26; // 'z' - 'a'
     public final static char TERMINATING_CHARACTER = '\0';
     // \u200C is a zero-width space
     public final static char BEGINNING_CHARACTER = '\u200C';
